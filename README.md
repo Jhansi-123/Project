@@ -1,1 +1,4 @@
-# Project
+## Mini Project
+
+Text classification also known as text tagging or text categorization is the process of categorizing text into organized groups. By using Natural Language Processing (NLP), text classifiers can automatically analyze text and then assign a set of pre-defined tags or categories based on its content. Text classification helps users to get the required information for their queries within less span of time and the obtained text or data would be relevant to their search. Many methods and algorithms are used for the classification of text, but the accuracy varies from method to method. CNN can be used for different classification tasks in NLP. CNN has one or more convolutional layers. These Convolutional layers are defined as kernels. The kernel is a matrix that moves over the input data, these kernels have fixed sizes. Getting your data in the right dimensions is extremely important for any learning algorithm. CNN increases the overall classification performance. In addition to that, the performance of each class is higher than 94%. This result indicates that CNN can be used for defense systems to meet high precision requirements. 
+
